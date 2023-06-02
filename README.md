@@ -6,7 +6,7 @@ A machine learning model utilized to predict letters and numbers from the Americ
 
 This project was originally developed during [HackWesTX2020](https://www.hackwestx.tech/). The idea was to bridge the gap between English speakers and deaf/nonverbal people. To do so, the convolutional neural network is trained on a dataset from Kaggle titled [_ASL-dataset_ by ayuraj](https://www.kaggle.com/datasets/ayuraj/asl-dataset). 
 
-## Models
+## Model
 
 The machine learning model developed is a simple convolutional neural network instantiated as a sequential model. It consists of 6 layers total. 
 
